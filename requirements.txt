@@ -1,5 +1,0 @@
-streamlit
-statsforecast==2.1.1
-pandas
-numpy
-plotly
