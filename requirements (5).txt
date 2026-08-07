@@ -1,0 +1,6 @@
+streamlit
+statsforecast==2.1.1
+scipy
+pandas
+numpy
+plotly
